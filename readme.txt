@@ -1,0 +1,3 @@
+Game created using Unreal Engine 4 for a software engineering class project. As one of the developers of the project, my contributions were adding and designing the "Ruins" map. This involved adding a modifying various textures and meshes, as well as coding the exit feature once the end of the level/map is reached. 
+
+Link to the completed project: https://drive.google.com/open?id=1KF-vdYZfwvBBw33YXrKA3rTRfGq5QEed
